@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="spark-retail-analytics-platform,spark-retail-analytics-platform.main,spark-retail-analytics-platform.test,spark-retail-analytics-platform_4577,spark-retail-analytics-platform_4577.main,spark-retail-analytics-platform_4577.test" />
+  </component>
+</project>
