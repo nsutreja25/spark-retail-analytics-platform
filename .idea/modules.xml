@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-retail-analytics-platform/spark-retail-analytics-platform.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-retail-analytics-platform/spark-retail-analytics-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-retail-analytics-platform/spark-retail-analytics-platform.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-retail-analytics-platform/spark-retail-analytics-platform.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-retail-analytics-platform/spark-retail-analytics-platform.spark-retail-analytics-platform-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-retail-analytics-platform/spark-retail-analytics-platform.spark-retail-analytics-platform-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-retail-analytics-platform/spark-retail-analytics-platform.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-retail-analytics-platform/spark-retail-analytics-platform.test.iml" />
+    </modules>
+  </component>
+</project>
